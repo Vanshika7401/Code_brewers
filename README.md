@@ -25,37 +25,7 @@
 </th>
     <th>![Screenshot_20220717_183037](https://user-images.githubusercontent.com/85017987/179400399-2d12e628-a586-4e55-acae-d35ab7554f5f.png)
 </th>
-   </tr>
-     <tr>
-    <th><img src="screenshots/5.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/6.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-    <th><img src="screenshots/7.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/8.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-   </tr>
-     <tr>
-    <th><img src="screenshots/9.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/10.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-    <th><img src="screenshots/11.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/12.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-   </tr>
-     <tr>
-    <th><img src="screenshots/13.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/14.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-    <th><img src="screenshots/15.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/16.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-   </tr>
-     <tr>
-    <th><img src="screenshots/17.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/18.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-    <th><img src="screenshots/19.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/20.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-   </tr>
-     <tr>
-    <th><img src="screenshots/21.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/22.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-    <th><img src="screenshots/23.jpeg" alt="loading screenshot"  width="200" height="380"/></th>
-    <th><img src="screenshots/24.jpeg" alt="loading screenshot"  width="200" height="380"/></th> 
-   </tr>
+    </tr>
 </table>
 <h2>Features</h2>
 <p>Quiz is an online Mobile Application that allows you to, make your online mock test, set multiple choice questions & share with ease.</p>
