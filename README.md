@@ -15,18 +15,8 @@
   <li>open the project using android studio</li>
   <li>Build and Run the project</li>
 </ul> 
-  <table style="width:100%">
-  <tr>
-    <th>![Screenshot_20220717_182803](https://user-images.githubusercontent.com/85017987/179400360-ccfd8bc3-fc3d-4f3c-a6f8-9ac2140454f5.png)
-</th>
-    <th> ![Screenshot_20220717_182831](https://user-images.githubusercontent.com/85017987/179400380-a2270769-07e8-4016-bf84-6b969e1ce267.png)
-</th> 
-    <th>![Screenshot_20220717_182901](https://user-images.githubusercontent.com/85017987/179400392-8e2236e1-5066-4f9f-b03d-86fdc86ef8b0.png)
-</th>
-    <th>![Screenshot_20220717_183037](https://user-images.githubusercontent.com/85017987/179400399-2d12e628-a586-4e55-acae-d35ab7554f5f.png)
-</th>
-    </tr>
-</table>
+
+<
 <h2>Features</h2>
 <p>Quiz is an online Mobile Application that allows you to, make your online mock test, set multiple choice questions & share with ease.</p>
 <p>Quiz is an online class quiz maker application that allows you to create, publish and share quizzes or exams. Tutors can
