@@ -16,7 +16,7 @@
   <li>Build and Run the project</li>
 </ul> 
 
-<
+
 <h2>Features</h2>
 <p>Quiz is an online Mobile Application that allows you to, make your online mock test, set multiple choice questions & share with ease.</p>
 <p>Quiz is an online class quiz maker application that allows you to create, publish and share quizzes or exams. Tutors can
@@ -89,6 +89,6 @@ create their quizzes and share them with the students and evaluate them. Even an
 </ul>
 </ul>
 
-  <li>This project is an effort by DotdevelopingTeam .</li>
+  <h2><li>This project is an effort by DotdevelopingTeam .</li></h2>
 </body>
 </html>
