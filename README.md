@@ -125,6 +125,6 @@ create their quizzes and share them with the students and evaluate them. Even an
 </ul>
 </ul>
 
-  <li>This project is an effort by DotdebelopingTeam .</li>
+  <li>This project is an effort by DotdevelopingTeam .</li>
 </body>
 </html>
