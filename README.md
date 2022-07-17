@@ -1,17 +1,14 @@
 <html>
 <head>
-<h1>QUIZ ME</h1>
+<h1>QUIZ</h1>
 </head>
 <body>
   <h2>What is this repository for?</h2>
 <ul>
-  <li>This repository is for QUIZ ME android application.</li>
+  <li>This repository is for QUIZ android application developed for code Brewers Hackathon</li>
   <li>System Requiremnts: - Java 11, Android Studio</li>
-  <li>Version 2.1</li>
 </ul>
-<div>
-  <img src="screenshots/icon.png" alt="loading icon"  width="200" height="200"/>
-<div/> 
+
 <h2>How do I get set up?</h2>
 <ul>
   <li>Clone or Download the repository</li>
@@ -57,12 +54,10 @@
    </tr>
 </table>
 <h2>Features</h2>
-<p>Quiz Me is an online Mobile Application that allows you to, make your online mock test, set multiple choice questions & share with ease.</p>
-<p>QuizME is an online class quiz maker application that allows you to create, publish and share quizzes or exams. Tutors can
+<p>Quiz is an online Mobile Application that allows you to, make your online mock test, set multiple choice questions & share with ease.</p>
+<p>Quiz is an online class quiz maker application that allows you to create, publish and share quizzes or exams. Tutors can
 create their quizzes and share them with the students and evaluate them. Even anyone can use it for self-evaluation or entertainment purposes and also scheduled manner.</p>
-<p>QuizMe can be used by educators, trainers, non-profits, businesses, and other professionals who need an easy way to quickly make exams, tests, and quizzes online. You can create and publish your first exam in a few minutes!
-</p>
-<p>Start using the best and most powerful quiz creator QuizME app now. The free plan includes all the cool features such as:</p>  
+
 <ul>
   <li>Create Quiz</li>
   <li>Add Questions</li>
@@ -78,7 +73,7 @@ create their quizzes and share them with the students and evaluate them. Even an
   <li>Receive newest Updates</li>
 </ul>
 
-<p>Now Let's see more details about QUIZ ME Features</p>  
+<p>Now Let's see more details about QUIZ Features</p>  
 <ol>
   <li>Create online quizzes easily
     <p>
@@ -102,7 +97,7 @@ create their quizzes and share them with the students and evaluate them. Even an
   </li>
   <li>Check test results and calculate marks instantly
     <p>
-      QuizME allows checking student's scores instantly after the quiz is finished. Not only that but also, he/she can access quizzes that he/she joined before and check the scores and the answers descriptions.
+      Quiz allows checking student's scores instantly after the quiz is finished. Not only that but also, he/she can access quizzes that he/she joined before and check the scores and the answers descriptions.
     </p>
   </li>
   <li>Leaderboard
@@ -123,55 +118,13 @@ create their quizzes and share them with the students and evaluate them. Even an
 <li>How to see the Leaderboard of a created Quiz?</li>
 <li>How to see marks of my past attended Quizzes?</li>
 <li>Privacy</li>
-<li>Do you like Our App?</li>
+
 <li>What can I do if I see something unusual happening in the App?</li>
 </ul>
 <li>finally We have included the privacy policy of the application.</li>
 </ul>
 </ul>
-<h2>Sinhala Language Support</h2>
-  <p>This is one of the coolest features in QUIZ ME mobile app.</p>  
-  <table style="width:100%">
-  <tr>
-    <th><img src="screenshots/s1.jpeg" alt="loading screenshot"  width="200" height="380"</th>
-    <th><img src="screenshots/s2.jpeg" alt="loading screenshot"  width="200" height="380"</th> 
-    <th><img src="screenshots/s3.jpeg" alt="loading screenshot"  width="200" height="380"</th>
-    <th><img src="screenshots/s4.jpeg" alt="loading screenshot"  width="200" height="380"</th>
-    </tr>
-</table>
-<h2>Receive newest Updates</h2>
-<p>If there is a Update and the curent version in User's App doesn't work with newest Update , user will get notified it in Quiz Me Home Page.</p>
-<div>
-  <img src="screenshots/updates.jpeg" alt="loading screenshot"  width="200" height="400"/>
-<div/> 
- <p>By clicking "Update", User will redirect to Quiz Me Google Playstore page.</p>
-<h2>Tested Devices</h2>
-<ul>
-  <li>Samsung Galaxy M10 [os-Q]</li>
-  <li>Oppo A5 2020 [os-Oreo]</li>
-  <li>Huawei GR5 mini [os-Nougat]</li>
-  <li>Samsung Galaxy J7 Nxt [os-Nougat]</li>
-  <li>Samsung Galaxy J7 [os-Marshmallow]</li>
-  <li>Samsung Galaxy Grand prime [os-lollipop]</li>
-  <p>Apk file was added - <a href="https://github.com/Team-nanocode/Quiz-me/tree/main/apk">view APK</a> </p>
-</ul>
-<h2>Contact Details</h2>
-<ul>
-  <li>Contributer:Nuwan Harsha        (nuwan.harshamatrix@gmail.com)</li>
-  <li>Contributer:Erandana Wijerathne (erandanawijerathne96@gmail.com)</li>
-  <li>Contributer:Saubhagya Munasinghe(sm201211d@gmail.com)</li>
-  <li>Contributer:Maneesha Randeniya  (randeniyamaneesha13@gmail.com)</li>
-  <li>Contributer:Nipun Dewanarayana  (ncdsomarathne@yahoo.com)</li>
-</ul>
-<h2>How to Contribute</h2>
-<ul>
-  <li>Please report issues at <a href="https://github.com/Team-nanocode/Quiz-me/issues">GitHub Issue Tracker</a>.</li>
-  <li>Send your contributions as pull requests to <a href="https://github.com/Team-nanocode/Quiz-me/tree/main">main branch</a>.</li>
-</ul>
-  <a href="https://play.google.com/store/apps/details?id=com.cipher.pera.quizme">
-    <img src="screenshots/playstore.png" alt="loading screenshot"> 
-  </a>
-<h2>Licence</h2>
-  <li>This project is maintained under the MIT licence.</li>
+
+  <li>This project is an effort by DotdebelopingTeam .</li>
 </body>
 </html>
