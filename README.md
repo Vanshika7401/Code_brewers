@@ -5,7 +5,7 @@
 <body>
   <h2>What is this repository for?</h2>
 <ul>
-  <li>This repository is for QUIZ android application developed for code Brewers Hackathon</li>
+  <li>This repository is for QUIZ android application developed for <b> Tally CodeBrewers hackathon </b></li>
   <li>System Requiremnts: - Java 11, Android Studio</li>
 </ul>
 
@@ -89,6 +89,6 @@ create their quizzes and share them with the students and evaluate them. Even an
 </ul>
 </ul>
 
-  <h2><li>This project is an effort by DotdevelopingTeam .</li></h2>
+  <h2>This project is an effort by DotdevelopingTeam for Tally CodeBrewers hackathon</h2>
 </body>
 </html>
